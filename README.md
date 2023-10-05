@@ -1,4 +1,3 @@
-# itrags
 
 Steps To Run The Project:
 
