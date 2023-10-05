@@ -1,16 +1,32 @@
 # itrags
 
-A new Flutter project.
+Steps To Run The Project:
 
-## Getting Started
+1- Download the code from Github Folder.ZIP
 
-This project is a starting point for a Flutter application.
+2-Extract The Folder
 
-A few resources to get you started if this is your first Flutter project:
+3-Open Android Studio And Press Open and Choose The Folder of The Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4-Oen Terminal and Enter flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5-Open Emulator
+
+6-Run The project.
+
+This Flutter Challenge  for itrags
+
+• APIs
+
+• DarkMode
+
+• localizations 
+
+• Audio Data
+
+
+• responsive for Mobiles. Developed using Dart, Flutter, API, Cubit, MVVM , injection.
+
+
+
+
